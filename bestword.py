@@ -15,7 +15,6 @@ for c in lettres :
     lettres_list += c
 
 for mot in dico :
-    # print("Test du mot",mot)
     lettres_list_copy = lettres_list.copy()
     j = 0
     k = 0
